@@ -10,7 +10,7 @@ const data = [
         title: "CodeShelf - Online Bookstore (Full Stack)",
         desc: "A dedicated online store for computer science and programming books. Browse, explore, and order the resources you need in just a few clicks.Making learning easy, focused, and accessible for every tech enthusiast.",
         demo: 'https://codeshelf-dusky.vercel.app/',
-        github: 'https://github.com/Almonaimsiam'
+        github: 'https://github.com/Almonaimsiam/codeshelf'
     },
     {
         id: 2,
@@ -19,7 +19,7 @@ const data = [
         title: "PrimeTech – Tech Made Simple (Full Stack)",
         desc: "A modern e-commerce platform designed for tech and gadget lovers. You can easily browse, compare, and shop for the latest devices. Smart shopping is quick, dependable, and fun.",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/Almonaimsiam'
+        github: 'https://github.com/Almonaimsiam/primetech'
     },
     
   
